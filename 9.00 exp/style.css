@@ -1,0 +1,24 @@
+div{
+    display: inline-block;
+    background-color: orange;
+}
+.one{
+    background-color: red;
+    position: absolute;
+    float: left;
+    width: 25%;
+}
+.two{
+    background-color: green;
+    position: absolute;
+    float: left;
+    left: 27.25%;
+    width: 25%
+}
+.three{
+    background-color: blue;
+    position: absolute;
+    float: left;
+    left: 53%;
+    width: 40%;
+}
